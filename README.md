@@ -11,9 +11,7 @@ Label flipping attack ; X% of the training data (35)
 - Baseline Accuracy: X
 - Poisoned Accuracy: Y
 
-# Date
-
-4.8.26 -
+***4.8.26***
 
 Console:
 
