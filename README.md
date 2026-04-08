@@ -1,4 +1,4 @@
-# Data Poisoning Lab (Logistic Regression)
+# Lab Data Poisoning (Logistic Regression)
 
 ## Objective
 Demonstrate how poisoned training data impacts model performance.
