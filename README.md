@@ -6,10 +6,18 @@ Demonstrate how poisoned training data impacts model performance.
 ## Technique
 Label flipping attack ; X% of the training data (35)
 
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python lab.py
+```
+
 ## Results
 
 - Baseline Accuracy: X
 - Poisoned Accuracy: Y
+
 
 ***4.8.26***
 
